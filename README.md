@@ -19,9 +19,9 @@ If people are interested in evolving it to be accessible for use by others, that
 
 The goal is to eventually 
 
-1. extend well beyond the prehistoric constructs of apps and websites. [*"Where we're going, we don't need... road's"*]
+1. extend well beyond the prehistoric constructs of apps and websites. [*"Where we're going, we don't need... roads"*]
 2. give users full control and autonomy to
-    1. own/store their own perspectives where they with, rather than host them with corporations / governments
+    1. own/store their own perspectives where they wish, rather than forced to host with corporations / governments who can access without consent
     2. create "view-ports" [projections of the perspective] to share with parties / tools [like advertisers]
     3. plug-in/remove "view-ports" from technology to leverage benefits of personalization without compromising privacy
 
